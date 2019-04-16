@@ -47,3 +47,29 @@
    Automation with Ansible | 
    Deploying and administration web-server LAMP and NGINX(php-fpm) |
    Monitoring servers and services by Zabbix
+
+- company: JSC Konti
+  job_title: Senior System Administrator
+  dates: March 2011 - August 2015
+  description: | # this will include new lines to allow paragraphs
+   Configuration and support all Cisco nodes  |
+   Backup solutions | 
+   Monitoring servers and networking |
+   Documenting networking, infrastructure, disaster recovery processes |
+   Automation with SCCM, SCOM and other MS products
+  
+- company: ISP Volia
+  job_title: NOC engineer and linux administrator
+  dates: September 2008 - March 2011
+  description: | # this will include new lines to allow paragraphs
+   Monitoring  |
+   Support
+   
+- company: ISP Netlux
+  job_title: Linux Administrator and Junior Developer(Perl)
+  dates: November 2005 - September 2008
+  description: | # this will include new lines to allow paragraphs
+   Developing billing tools  |
+   NOC Support |
+   Monitoring all systems
+   
