@@ -24,10 +24,10 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-#  Alongside my interests in software engineering some of my other interests and hobbies are 
-#   * Triathlon 
-#   * Cycling 
-#   * Hiking 
+  Alongside my interests in software engineering some of my other interests and hobbies are 
+   * Triathlon 
+   * Cycling 
+   * Hiking 
 
   
 # Footer
