@@ -17,12 +17,12 @@
   quote: >
    started in SRE team, lead of devops in MIG team 
   description: | # this will include new lines to allow paragraphs
-   migration from legacy systems to target Godaddy Platform |
-   developing migration framework | 
-   manage CI/CD procceses |
-   building clusters with Pacemaker and Corosync |
-   building DB solutions (Mysql, Galera clusters) |
-   HA load-balancing(nginx, HAProxy, keepalived)
+   * migration from legacy systems to target Godaddy Platform 
+   * developing migration framework  
+   * manage CI/CD procceses 
+   * building clusters with Pacemaker and Corosync 
+   * building DB solutions (Mysql, Galera clusters) 
+   * HA load-balancing(nginx, HAProxy, keepalived)
    
  
 - company: Adcombo
@@ -32,10 +32,10 @@
   quote: >
    HighLoad project in CPA Network
   description: | # this will include new lines to allow paragraphs
-   Deploying automated tools |
-   Automation with Ansible | 
-   Monitoring servers, service and applications |
-   Administration and replication DBA PostgreSQL
+   * Deploying automated tools 
+   * Automation with Ansible 
+   * Monitoring servers, service and applications 
+   * Administration and replication DBA PostgreSQL
    
 - company: Pinspb ISP
   job_title: Senior Linux Administrator
@@ -43,33 +43,33 @@
   quote: >
    Hosting and ISP
   description: | # this will include new lines to allow paragraphs
-   Deploying and administration of virtualization platforms (KVM) |
-   Automation with Ansible | 
-   Deploying and administration web-server LAMP and NGINX(php-fpm) |
-   Monitoring servers and services by Zabbix
+   * Deploying and administration of virtualization platforms (KVM) 
+   * Automation with Ansible 
+   * Deploying and administration web-server LAMP and NGINX(php-fpm) 
+   * Monitoring servers and services by Zabbix
 
 - company: JSC Konti
   job_title: Senior System Administrator
   dates: March 2011 - August 2015
   description: | # this will include new lines to allow paragraphs
-   Configuration and support all Cisco nodes  |
-   Backup solutions | 
-   Monitoring servers and networking |
-   Documenting networking, infrastructure, disaster recovery processes |
-   Automation with SCCM, SCOM and other MS products
+   * Configuration and support all Cisco nodes  
+   * Backup solutions 
+   * Monitoring servers and networking 
+   * Documenting networking, infrastructure, disaster recovery processes 
+   * Automation with SCCM, SCOM and other MS products
   
 - company: ISP Volia
   job_title: NOC engineer and linux administrator
   dates: September 2008 - March 2011
   description: | # this will include new lines to allow paragraphs
-   Monitoring  |
-   Support
+   * Monitoring  
+   * Support
    
 - company: ISP Netlux
   job_title: Linux Administrator and Junior Developer(Perl)
   dates: November 2005 - September 2008
   description: | # this will include new lines to allow paragraphs
-   Developing billing tools  |
-   NOC Support |
-   Monitoring all systems
+   * Developing billing tools  
+   * NOC Support 
+   * Monitoring all systems
    
