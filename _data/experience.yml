@@ -6,6 +6,44 @@
   quote: >
    Edge Platform
   description: | # this will include new lines to allow paragraphs
-   building k8s clusters in Openstack 
-   creating helm charts for applications 
+   building k8s clusters in Openstack |
+   creating helm charts for applications | 
    CI/CD 
+
+- company: Godaddy EMEA
+  link: https://godaddy.com
+  job_title: Devops Engineer, lead of migration team
+  dates: August 2016 - October 2018
+  quote: >
+   started in SRE team, lead of devops in MIG team 
+  description: | # this will include new lines to allow paragraphs
+   migration from legacy systems to target Godaddy Platform |
+   developing migration framework | 
+   manage CI/CD procceses |
+   building clusters with Pacemaker and Corosync |
+   building DB solutions (Mysql, Galera clusters) |
+   HA load-balancing(nginx, HAProxy, keepalived)
+   
+ 
+- company: Adcombo
+  link: https://adcombo.com
+  job_title: System Administrator
+  dates: December 2015 - May 2016
+  quote: >
+   HighLoad project in CPA Network
+  description: | # this will include new lines to allow paragraphs
+   Deploying automated tools |
+   Automation with Ansible | 
+   Monitoring servers, service and applications |
+   Administration and replication DBA PostgreSQL
+   
+- company: Pinspb ISP
+  job_title: Senior Linux Administrator
+  dates: Febrary 2013 - December 2015
+  quote: >
+   Hosting and ISP
+  description: | # this will include new lines to allow paragraphs
+   Deploying and administration of virtualization platforms (KVM) |
+   Automation with Ansible | 
+   Deploying and administration web-server LAMP and NGINX(php-fpm) |
+   Monitoring servers and services by Zabbix
