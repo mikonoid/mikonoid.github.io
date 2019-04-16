@@ -6,9 +6,9 @@
   quote: >
    Edge Platform
   description: | # this will include new lines to allow paragraphs
-   building k8s clusters in Openstack |
-   creating helm charts for applications | 
-   CI/CD 
+   * building k8s clusters in Openstack 
+   * creating helm charts for applications 
+   * CI/CD 
 
 - company: Godaddy EMEA
   link: https://godaddy.com
