@@ -1,55 +1,35 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+repository: mikonoid/mikonoid.gihub.io
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+name: Mike Ivanov
+title: Devops Engineer
+email: mikonoid@gmail.com
+website: http://itkitchen.net
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
+twitter_username: mike_eth1
+github_username:  mikonoid
+facebook_username: mikenoid
+instagram_username: slon.gobo
+linkedin_username: mikhail-ivanov-bb585160
 
 # About Section
-# about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - Links
-    - Images
-
-# Projects Section
-# projects_title: Projects #(Use this to override about projects section title)
-
-# Experience Section
-# experience_title: Experience #(Use this to override about experience section title)
-
-# Education Section
-# education_title: Education #(Use this to override about education section title)
+ I'm senior Devops Engineer. I have worked at a number of companies gaining teamwork and a lot of skills. |
+ As well I have experience with private clouds and building big projects from scrath. |
+ I am most skilled in <mark>Ansible</mark>, <mark>Openstack</mark>, <mark>k8s</mark>, <mark>High Availability</mark>, <mark>Clustering</mark> 
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
-
+  Alongside my interests in software engineering some of my other interests and hobbies are:
+  <list>
+  Triathlon
+  Cycling
+  Hiking
+  </list> 
 # Footer
 footer_show_references: true
 
