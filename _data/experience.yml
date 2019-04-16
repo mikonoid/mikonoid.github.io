@@ -1,9 +1,11 @@
-# Experience template
-- company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
-  quote: >
-   Short description of the company (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of role
+   # Experience template
+ - company: EdgeGravity by Ericsson
+   link: https://edgegravity.ericsson.com
+   job_title:Devops Engineer
+   dates: October 2018 - present
+   quote: >
+     Edge Platform
+   description: | # this will include new lines to allow paragraphs
+     building k8s clusters in Openstack |
+     creating helm charts for applications |
+     CI/CD |
