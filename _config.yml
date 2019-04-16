@@ -24,7 +24,7 @@ about_content: | # this will include new lines to allow paragraphs
  <mark>Ansible</mark>, <mark>Openstack</mark>, <mark>k8s</mark>, <mark>High Availability</mark>, <mark>Clustering</mark> 
 
 # More Section
-# more_title: A Little More About Me #(Use this to override about more section title)
+more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in software engineering some of my other interests and hobbies are 
    * Triathlon 
