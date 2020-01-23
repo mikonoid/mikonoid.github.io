@@ -6,9 +6,12 @@
   quote: >
    Edge Platform
   description: | # this will include new lines to allow paragraphs
-   * building k8s clusters in Openstack 
-   * creating helm charts for applications 
-   * CI/CD 
+   * Managed Docker orchestration and Docker containerization using Kubernetes
+   * building tools for automation deploying k8s cluster
+   * managed k8s clusters in Openstack 
+   * creating and managing Helm charts for applications 
+   * Managing CI/CD proccesses
+   * Managing configurations/installations by Ansible
 
 - company: Godaddy EMEA
   link: https://godaddy.com
