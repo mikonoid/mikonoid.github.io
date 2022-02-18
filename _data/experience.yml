@@ -1,8 +1,20 @@
 # Experience template
+- company: STAR
+  link: https://star.global
+  job_title: Senior Devops Engineer
+  dates: September 2020 - present
+  description: | # this will include new lines to allow paragraphs
+   * Docker orchestration using Kubernetes (AKS)
+   * CI/CD (Jenkins, Groovy, Github Actions)
+   * Monitoring (Grafana, Prometheus, Loki) 
+   * Scripting (Bash, Python)
+   * Managing configurations/installations by Ansible
+
+
 - company: EdgeGravity by Ericsson
   link: https://edgegravity.ericsson.com
   job_title: Devops Engineer
-  dates: October 2018 - present
+  dates: October 2018 - September 2020
   quote: >
    Edge Platform
   description: | # this will include new lines to allow paragraphs
