@@ -16,15 +16,16 @@ linkedin_username: mikhail-ivanov-bb585160
 # About Section
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
- I'm senior Devops Engineer. 
+ I'm Devops Engineer. 
  I have worked at a number of companies gaining teamwork and a lot of skills. 
- As well I have experience with private clouds and building big projects from scrath. 
+ As well I have experience with private/public clouds,k8s, ci/cd and building pretty huge projects from scrath. 
  I am most skilled in: 
  * <mark>Ansible</mark>
- * <mark>Openstack</mark>,
- * <mark>k8s</mark>
+ * <mark>Openstack,Azure,Aws</mark>,
+ * <mark>Kubernetes</mark>
  * <mark>High Availability</mark>
- * <mark>Clustering</mark> 
+ * <mark>Clustering</mark>
+ * <mark>CI/CD</mark>
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
