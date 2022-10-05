@@ -6,3 +6,7 @@
  - name: Certifications
    dates: 2020
    qualification: CJE (Jenkins Certified Engineer)
+
+- name: Certifications
+   dates: 2022
+   qualification: CKAD (Certified Kubernetes Application Developer)
