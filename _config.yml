@@ -20,12 +20,13 @@ about_content: | # this will include new lines to allow paragraphs
  I have worked at a number of companies gaining teamwork and a lot of skills. 
  As well I have experience with private/public clouds,k8s, ci/cd and building pretty huge projects from scrath. 
  I am most skilled in: 
- * <mark>Ansible</mark>
- * <mark>Openstack,Azure,Aws</mark>,
+ * <mark>AWS, AZURE, Openstack</mark>,
  * <mark>Kubernetes</mark>
  * <mark>High Availability</mark>
  * <mark>Clustering</mark>
  * <mark>CI/CD</mark>
+ * <mark>Configuration Management</mark>
+ * <mark>SRE</mark>
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
