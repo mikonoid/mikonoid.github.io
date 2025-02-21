@@ -4,8 +4,8 @@
   job_title: Principal Devops Engineer
   dates: September 2020 - present
   description: | # this will include new lines to allow paragraphs
-   * Docker orchestration using Kubernetes (AKS, EKS)
-   * CLoud engineering with Azure, AWS
+   * Docker orchestration using Kubernetes (AKS, EKS, ECS Fargate)
+   * Cloud engineering with Azure, AWS
    * IaC (Terraform, Terraform Cloud)
    * CI/CD (Jenkins, Groovy, Github Actions)
    * Monitoring (Grafana, Prometheus, Loki) 
